@@ -9,3 +9,7 @@ edition = "2021"
 
 [[test]]
 name = "variables"
+
+[[test]]
+name = "numbers"
+path = "tests/basic_types/numbers/main.rs"
