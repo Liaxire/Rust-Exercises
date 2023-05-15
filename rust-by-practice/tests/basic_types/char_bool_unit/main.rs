@@ -6,7 +6,7 @@ mod ex_5;
 mod ex_6;
 
 #[cfg(test)]
-mod numbers {
+mod char_bool_unit {
     use super::*;
     #[test]
     fn ex_1() {

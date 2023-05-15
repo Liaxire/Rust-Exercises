@@ -17,3 +17,7 @@ path = "tests/basic_types/numbers/main.rs"
 [[test]]
 name = "char_bool_unit"
 path = "tests/basic_types/char_bool_unit/main.rs"
+
+[[test]]
+name = "statements_expressions"
+path = "tests/basic_types/statements_expressions/main.rs"
