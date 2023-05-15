@@ -13,3 +13,7 @@ name = "variables"
 [[test]]
 name = "numbers"
 path = "tests/basic_types/numbers/main.rs"
+
+[[test]]
+name = "char_bool_unit"
+path = "tests/basic_types/char_bool_unit/main.rs"
